@@ -2,7 +2,7 @@
 
 <div align="center">
   
- ![patinho](https://raw.githubusercontent.com/suelxn/README.md/main/patinho.gif) 
+ ![patinho](https://raw.githubusercontent.com/suelxn/suelxn/main/patinho.gif) 
 
 </div>
 
