@@ -8,7 +8,7 @@
 
 
 
- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/iamsuelendias) [<img src="https://img.shields.io/badge/gmail-D14836?.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](https://suelenanjos16@gmail.com) [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://keepo.io/suelendias/)  
+ [<img src="https://img.shields.io/badge/gmail-D14836?.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](https://suelenanjos16@gmail.com) [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://keepo.io/suelendias/)  
 
 
 - 👩‍💻 BSc. Graphic Designer, Esp. UX/UI Design and Development of Digital Technologies
