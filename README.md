@@ -14,7 +14,7 @@
 - 👩‍💻 BSc. Graphic Designer, Esp. UX/UI Design and Development of Digital Technologies
 - 🔍 Researcher in UX/UI @ [LAIS-UFRN](https://lais.huol.ufrn.br/)
 - 🎓 Master's Student in Intellectual Property Science @ [UFS](https://www.sigaa.ufs.br/sigaa/public/programa/portal.jsf?id=822)
-- 🌐 Intellectual Property, Blockchain and AI
+- 🌐 UX/UI, Data Security and AI
 - 👩🏻 She/Her. PT/EN.
 
 
