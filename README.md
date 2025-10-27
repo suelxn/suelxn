@@ -12,8 +12,8 @@
 
 
 - 👩‍💻 Graphic Designer, Esp. UX/UI Design and Development of Digital Technologies
-- 🔍 Researcher in UX/UI @ [LAIS-UFRN](https://lais.huol.ufrn.br/)
-- 🎓 Master's Student in Intellectual Property Science @ [UFS](https://www.sigaa.ufs.br/sigaa/public/programa/portal.jsf?id=822)
+- 🔍 Systems Analyst at @ [Avonale](https://www.instagram.com/avonaleworkplace/)
+- 🎓 Master's Student in Intellectual Property Science at @ [UFS](https://www.sigaa.ufs.br/sigaa/public/programa/portal.jsf?id=822)
 - 🌐 UX/UI, Front-End and AI
 - 👩🏻 She/Her. PT/EN.
 
