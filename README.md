@@ -13,7 +13,7 @@
 
 - 👩‍💻 Graphic Designer, Esp. UX/UI Design and Development of Digital Technologies
 - 🔍 Systems Analyst at @ [Avonale](https://www.instagram.com/avonaleworkplace/)
-- 🎓 Master's Student in Intellectual Property Science at @ [UFS](https://www.sigaa.ufs.br/sigaa/public/programa/portal.jsf?id=822)
+- 🎓 Master of Science (M.Sc.) in Intellectual Property at @ [UFS](https://www.sigaa.ufs.br/sigaa/public/programa/portal.jsf?id=822)
 - 🌐 UX/UI, Front-End and AI
 - 👩🏻 She/Her. PT/EN.
 
