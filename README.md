@@ -11,10 +11,10 @@
  [<img src="https://img.shields.io/badge/gmail-D14836?.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](https://suelenanjos16@gmail.com) [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://keepo.io/suelendias/)  
 
 
+- 🔍 UX/UI Designer and Systems Analyst
 - 👩‍💻 Graphic Designer, Esp. UX/UI Design and Development of Digital Technologies
-- 🔍 Systems Analyst at @ [Avonale](https://www.instagram.com/avonaleworkplace/)
 - 🎓 Master of Science (M.Sc.) in Intellectual Property at @ [UFS](https://www.sigaa.ufs.br/sigaa/public/programa/portal.jsf?id=822)
-- 🌐 UX/UI, Front-End and AI
+- 🖥️ Student of Systems Analysis and Development
 - 👩🏻 She/Her. PT/EN.
 
 
